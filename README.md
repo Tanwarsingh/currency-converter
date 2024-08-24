@@ -1,2 +1,3 @@
 # currency-converter
-file contain the currency converter code
+file contain the currency converter code.
+
